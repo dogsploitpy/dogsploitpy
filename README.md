@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Pedro Vasconcelos</h1>
 
-<!--
-**dogsploitpy/dogsploitpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Rio de Janeiro, Brazil</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/LOW_LEVEL-C,_C%2B%2B,_RUST,_ASM-1f6feb?style=for-the-badge&labelColor=555555" alt="Low level: C, C++, Rust, Assembly">
+  <img src="https://img.shields.io/badge/HIGH_LEVEL-PYTHON,_JAVA,_JS-1f6feb?style=for-the-badge&labelColor=555555" alt="High level: Python, Java, JavaScript">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I reverse engineer software, which mostly means taking a binary with no source and working out what it does. Alongside that I study **quantum and post-quantum cryptography**: Shor's algorithm makes RSA and elliptic curves breakable on a large enough quantum computer, and post-quantum schemes are the classical replacements built to hold up against one.
+
+```
+RSA, ECC      →  broken by Shor's algorithm on a large quantum computer
+post-quantum  →  classical math designed to survive that
+```
+
+---
+
+## Contact
+
+dogsploit.py@gmail.com  
+dogsploit.py@onionmail.org
